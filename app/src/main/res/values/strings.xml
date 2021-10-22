@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="your_phone_number">your_phone_number</string>
+    <string name="what_you_do">what_you_do</string>
+    <string name="your_email">your_email</string>
+    <string name="your_name">your_name</string>
+    <string name="your_details">your_details</string>
+    <string name="ok">ok</string>
+</resources>
